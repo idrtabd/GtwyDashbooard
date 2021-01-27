@@ -1,0 +1,21 @@
+{
+  "name": "gw-dashboard",
+  "description": "The PivotGrid is a high-performance, enterprise-ready widget optimized for multi-dimensional data analysis. It allows your end users to easily arrange and summarize information in a cross-tabular format. In this demo, the PivotGrid’s simplicity of use is illustrated. Sorting and filtering are enabled so you can sort data in ascending or descending order and by summary values. You can drag and drop fields to reorganize the PivotGrid and change filtering options to analyze data more efficiently.\n",
+  "dependencies": {
+    "devexpress-diagram": "2.0.5",
+    "devexpress-gantt": "2.0.8",
+    "devextreme": "20.2.4",
+    "devextreme-quill": "0.9.7",
+    "devextreme-react": "20.2.4",
+    "es6-object-assign": "1.1.0",
+    "jszip": "3.5.0",
+    "luxon": "1.25.0",
+    "preact": "10.5.7",
+    "prop-types": "15.7.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-router-dom": "5.2.0",
+    "rrule": "2.6.6"
+  },
+  "keywords": []
+}
